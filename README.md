@@ -12,8 +12,9 @@ The dataset includes the following key attributes:
 
 ## ⚙️ Technology Stack
 - **Excel (Advanced Features)**: Data Cleaning, Transformation, Pivot Tables
-- **ETL Process in Excel**: Extract, Transform, and Load data using Excel functions
-- **Dashboarding**: Charts, Slicers, Conditional Formatting
+- **ETL Process in Excel**: Data preprocessing using formulas and functions
+- **Pivot Tables:** Data aggregation and summarization
+- **Data Visualization:** Charts, slicers, and dashboards
 
 ## 🏗️ Methodology
 1. **Data Cleaning & Preparation**
@@ -27,17 +28,17 @@ The dataset includes the following key attributes:
    - Rectified and grouped column names
    
 2. **Data Transformation & Segmentation**
-   - Created age group segmentation using `IF` statements
-   - Applied conditional formatting for better visualization
+   - Created age group segmentation using `nested-IF` statements
+   - Added calculated fields for better insights
    - Copied cleaned data to a new sheet for structured analysis
    
 3. **Aggregation & Analysis**
    - Used Pivot Tables to generate key metrics
    - Applied `SUM`, `COUNT`, and `AVERAGE` for numerical insights
-   - Created necessary joins and conditional columns
+   - Performed grouping and bucketing of categorical data
    
 4. **Dashboard Creation**
-   - Removed gridlines for a cleaner look
+   - Designed an **interactive Excel dashboard**
    - Inserted dynamic charts and formatted axes
    - Added slicers and linked them to all visual elements
    
