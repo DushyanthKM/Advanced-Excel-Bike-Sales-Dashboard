@@ -70,3 +70,7 @@ The dataset includes the following key attributes:
 
 ## 👨‍💻 Author & 📌 Contact
 **Dushyanth KM** 🔗 [LinkedIn](https://www.linkedin.com/in/dushyanth-km-666660260/)
+
+## 📢 About
+This project showcases how **Advanced Excel techniques** can be leveraged for effective data analytics and visualization.
+
