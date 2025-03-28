@@ -1,7 +1,7 @@
 # Advanced Excel Bike Sales Dashboard
 
 ## ❓ Problem Statement
-Built an interactive dashboard using Advanced Excel to analyze bike sales data. The goal was to clean and transform raw data, extract insights, and present them visually to assist in decision-making regarding customer behavior, purchasing patterns, and market trends.
+Build an interactive dashboard using Advanced Excel to analyze bike sales data. The goal is to clean and transform raw data, extract insights, and present them visually to assist in decision-making regarding customer behavior, purchasing patterns, and market trends.
 
 ## 📊 Data Understanding
 The dataset includes the following key attributes:
