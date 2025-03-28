@@ -5,10 +5,10 @@ Built an interactive dashboard using Advanced Excel to analyze bike sales data. 
 
 ## 📊 Data Understanding
 The dataset includes the following key attributes:
-- **Customer Demographics**: Age, Gender, Marital Status, Education Level
-- **Purchase Behavior**: Purchased Bike (Yes/No), Income
+- **Customer**: Customer ID, Name, Age, Gender, Marital Status, Education Level
+- **Demographics**: Children, Home Owners, Cars Owned
+- **Purchase Behavior**: Purchased Bike (Yes/No), Income , Occupation
 - **Geographic Data**: Region, Commute Distance
-- **Occupation**: Job Categories
 
 ## ⚙️ Technology Stack
 - **Excel (Advanced Features)**: Data Cleaning, Transformation, Pivot Tables
