@@ -27,20 +27,16 @@ The dataset includes the following key attributes:
    - Handled missing values using filtering and `COUNTBLANK` function
    - Rectified and grouped column names
    
-2. **Data Transformation & Segmentation**
-   - Created age group segmentation using `nested-IF` statements
-   - Added calculated fields for better insights
-   - Copied cleaned data to a new sheet for structured analysis
-   
-3. **Aggregation & Analysis**
-   - Used Pivot Tables to generate key metrics
+2. **Data Aggregation & Transformation**
    - Applied `SUM`, `COUNT`, and `AVERAGE` for numerical insights
-   - Performed grouping and bucketing of categorical data
-   
+   - Performed grouping and bucketing of categorical data using `nested-IF` statements
+   - Copied cleaned data to a new sheet for structured analysis
+   - Used Pivot Tables to generate key metrics
+        
 4. **Dashboard Creation**
    - Designed an **interactive Excel dashboard**
    - Inserted dynamic charts and formatted axes
-   - Added slicers and linked them to all visual elements
+   - Added slicers and linked them to all relevant charts for dynamic updates.
    
 ## 📈 Key Insights Generated
 ### 🔹 Customer Insights
